@@ -1,0 +1,8 @@
+Repositorio:  
+Es como una carpeta en la nube donde guardas todo tu proyecto. Ahí se queda guardado todo lo que vas cambiando, con el historial completo de cada modificación.
+
+Commit:  
+Es como tomarle una foto al proyecto en un momento específico. Guardas cómo están los archivos en ese instante para poder volver ahí si después algo sale mal.
+
+Push:  
+Es cuando subes los cambios que hiciste en tu compu al repositorio online, por ejemplo a GitHub, para que queden guardados allá y los demás los puedan ver.
