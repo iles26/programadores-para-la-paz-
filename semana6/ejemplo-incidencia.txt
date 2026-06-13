@@ -1,0 +1,4 @@
+{
+  "tipo": "Recolección de residuos",
+  "descripcion": "El camión no pasa por la calle 5 hace tres días"
+}

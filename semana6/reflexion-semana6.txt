@@ -1,0 +1,2 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+porque recibir la informacion orgnizada y estruturada asi la computadora sabe cada cosa en orden ,si los datos estan ordenados el sistema puede  clasificarlos automaticamente ,separar las quejas por cada tema y cada problema sin este orden nadie podria procesar la imformacion a tiempo y esto ayuda asolucionar los problemas comunitarios.
