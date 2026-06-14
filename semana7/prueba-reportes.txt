@@ -1,0 +1,15 @@
+Prueba de registro (POST):
+Al realizar una petición POST a 'http://localhost:3000/reportes' con los datos: 
+{"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}, 
+el servidor procesa la información y la guarda en memoria, respondiendo con un estatus 200 OK.
+
+Prueba de consulta (GET):
+Al realizar una petición GET a 'http://localhost:3000/reportes', el servidor retorna la lista de reportes almacenados en formato JSON:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
