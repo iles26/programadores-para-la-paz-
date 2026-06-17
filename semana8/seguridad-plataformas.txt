@@ -1,0 +1,6 @@
+5 práticas de seguridad que deberían aplicarse en una plataforma digital comunitaria
+1 revisar lo que escriben los usuarios 
+2 mantener los sistemas de segurudad actualizados 
+3 sacar copias de seguridad 
+4 dividir los permisos
+5 cifrar la imformacion guardada

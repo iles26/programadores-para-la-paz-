@@ -1,0 +1,10 @@
+ 1 whoami - laptop-kau5p6sr\acer
+
+ 2 sisteminfo- Nombre de host:                            LAPTOP-KAU5P6SR                    
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+                                                 Nombre de conexi?n: Wi-Fi
+                                                 Nombre de conexi?n: Ethernet
+                                                 Nombre de conexi?n: Conexi?n de red Bluetooth
+                                                 Nombre de conexi?n: Ethernet 2
+ 2  Por qué es útil conocer información del sistema cuando se administra un servidor.
+ Es fundamental para gestionar los permisos de los usuarios y verificar la compatibilidad del software que se va a instalar, además de asegurar que el sistema esté actualizado y sea seguro frente a vulnerabilidades.
