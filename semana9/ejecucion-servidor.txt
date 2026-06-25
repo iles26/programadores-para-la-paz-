@@ -1,0 +1,7 @@
+Cuando pongo el comando ⁠node server.js⁠ en la terminal, lo que sucede es que mi computadora pone en marcha el código que escribí y abre el servidor en el puerto 3000 para que pueda escuchar lo que le mando.
+En la terminal me sale el aviso: ⁠Servidor ejecutándose en puerto 3000⁠, que es la confirmación de que todo quedó bien prendido.
+cuando entro a la dirección ⁠http://localhost:3000/estado⁠ desde el navegador, me sale esto:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

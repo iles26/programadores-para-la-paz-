@@ -1,0 +1,9 @@
+Sistema operativo: Es el programa base que gestiona todo el hardware de la computadora, como la memoria y el procesador, para que el resto de los programas puedan funcionar sin problemas.
+
+ Node.js: Es la herramienta que nos permite ejecutar código JavaScript fuera del navegador, dándonos la capacidad de crear servidores y manejar conexiones a internet.
+
+ Aplicación (⁠server.js⁠): Es el código que nosotros escribimos; ahí definimos qué rutas existen, qué debe pasar cuando alguien entra y cómo debe responder el servidor.
+
+ Puerto (3000): Es como un "número de puerta" lógica que usamos para que la información entre y salga del servidor sin mezclarse con otras cosas que la computadora esté haciendo.
+ 
+ Logs: Son simplemente el diario o registro de todo lo que pasa en el servidor; sirven para revisar el historial y ver qué pasó si en algún momento algo sale mal.
